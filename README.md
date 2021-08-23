@@ -37,3 +37,16 @@ from the final version of the YAZE-AG (Yet Another Z80 Emulator) version
 http://www.mathematik.uni-ulm.de/users/ag/yaze-ag
 
 They are licensed under the GNU General Public License v2.0.
+
+## Updates
+
+* Add modified source-code that can be assembled using Hector Peraza's
+ZSM4 Z80 Macro Assembler (see https://github.com/hperaza/ZSM4 for source,
+binaries and documentation).  These source files have the .mac file type.
+Build these with commands like -
+
+```
+zsm4 =zexdoc/L
+link zexdoc
+```
+
