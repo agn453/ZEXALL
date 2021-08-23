@@ -4,4 +4,6 @@ text=auto
 README.md text eol=crlf
 LICENSE text eol=crlf
 *.z80 text eol=crlf linguist-language=Assembly
+*.mac text eol=crlf linguist-language=Assembly
 *.com binary
+*.pl text eol=crlf linguist-language=Perl
