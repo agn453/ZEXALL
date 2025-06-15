@@ -32,9 +32,9 @@ the Digital Research's CP/M-80 operating systems (CP/M 2.2, CP/M 3 etc).
 
 These programs (and their source-code in Z80 assembler) were extracted
 from the final version of the YAZE-AG (Yet Another Z80 Emulator) version
-2.51.1 curated by Andreas Gerlich at
+2.51.3 curated by Andreas Gerlich at
 
-http://www.mathematik.uni-ulm.de/users/ag/yaze-ag
+https://agl.yaze-ag.de/
 
 They are licensed under the GNU General Public License v2.0.
 
